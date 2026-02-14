@@ -34,7 +34,7 @@ The calculator allows users to input numbers and select an operation to compute 
 - Apply conditional logic in programs
 
 ## 👤 Author
-Komal
+Komal<br>
 Data Analytics Student
 
 

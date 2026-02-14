@@ -25,7 +25,7 @@ The calculator allows users to input numbers and select an operation to compute 
 4.	Follow on-screen instructions to perform calculations.<br>
 
 ## Output Preview
-<a href=""> Calculator</a>
+<a href="Calculator.png"> Calculator</a>
 
 ## Learning Objectives
 - Understand Python syntax and structure
